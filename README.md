@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/27503267/158444668-45e1bbc2-7679-4ff5-8b54-426c8b6a697d.png" alt="Banner" />
+
 ### Hi there, I'm Arthur 👋
 
 ## I'm a Full-Stack Web Developer 💻 and Drummer 🥁
